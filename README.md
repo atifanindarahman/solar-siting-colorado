@@ -49,4 +49,4 @@ python src/main.py
 ## Author
 
 Atif Aninda Rahman — MS GIS, University of Denver
-Atifaninda56@gmail.com
+atifaninda56@gmail.com
