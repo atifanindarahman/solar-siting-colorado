@@ -229,3 +229,4 @@ data/processed/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+.idea/
